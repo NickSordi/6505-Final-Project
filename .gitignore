@@ -1,7 +1,10 @@
 #data
 LOCAL DATA/generation_monthly.xlsx
 
+DATA\generation_monthly.xlsx
+
 
 *.pyc
 
 LOCAL DATA\Capacity
+*.csv

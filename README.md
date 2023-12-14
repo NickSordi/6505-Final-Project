@@ -22,15 +22,17 @@ If coal has been declining has production changed as well?
 
 # Key research areas for descriptive analysis:
 
+US power generation:
+
+how much power does the US gnerg generation per year? How has it changes in the past?
+
 Energy generation by State and Sector:
 
-What does the total energy porduction for the US look like over time. Has our energy needs gone up?
-
-Total Energy Costs:
-
-Which states have experienced the highest growth in total energy costs over the past decade, and what factors contribute to this increase?
+What does the total energy porduction for the US look like over time. What state produce the most energy?
 
 Energy sources:
+
+What types of energy does the US use to generate power? 
 
 Renewable Energy Growth by State:
 
@@ -42,14 +44,5 @@ Seasonal Energy Consumption:
 On average, which months have the highest energy consumption in each state?
 How does seasonality affect the demand for energy, and does it coincide with patterns in EV charging?
 
-Historical Energy Consumption Growth:
-
-What is the overall growth rate of energy consumption in the United States from 1950 to the present?
-Are there significant events or trends that correlate with periods of accelerated or reduced energy consumption growth?
-
-Peak Energy Consumption Year:
-
-In which year did the United States consume the most energy, and what factors contributed to this peak?
-Conversely, in which year did the country consume the least energy, and what circumstances led to this decrease?
 
 

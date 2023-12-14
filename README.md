@@ -22,13 +22,15 @@ If coal has been declining has production changed as well?
 
 # Key research areas for descriptive analysis:
 
-Energy Consumption by State and Sector:
+Energy generation by State and Sector:
 
-What states consume the most energy, and how is energy consumption distributed among residential, commercial, industrial, and transportation sectors?
+What does the total energy porduction for the US look like over time. Has our energy needs gone up?
 
 Total Energy Costs:
 
 Which states have experienced the highest growth in total energy costs over the past decade, and what factors contribute to this increase?
+
+Energy sources:
 
 Renewable Energy Growth by State:
 

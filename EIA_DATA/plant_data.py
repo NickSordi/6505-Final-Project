@@ -19,9 +19,9 @@ def get_plant_data(url = zip_plant_URL, plant_file_name='2___Plant_Y2022.xlsx', 
     df1 = read_and_concat_excel(plant_xlsx_filepath, sheet_name=['Plant'], skiprows=1)
     df2 = read_and_concat_excel(generator_xlsx_filepath, sheet_name=['Operable'], skiprows=1)
 
-    merged_df = pd.merge(df1, df2, on='Utility ID', how='left')
+    #merged_df = pd.merge(df1, df2, on='Utility ID', how='left')
 
-    return merged_df
+    return df2
 
 def download_and_unzip(url, extract_to_path):
     # Download the zip file from the URL

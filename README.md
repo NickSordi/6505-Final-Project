@@ -10,39 +10,30 @@ The dataset for our project was sourced from the US Energy Information Administr
 
 ## Expected Results Presentation:
 
-EDA of the us power generation
-What is the growth rate of the energy consumption from 1950- present?
-At what rate has renewable energy been growing by state? 
-Change in energy used for transportation?
+How has the Untied States electricity generated changed over time. In recent years we have seen many things going electric. What will that look like for US infrastructure? We wanted to better understand where our power comes from now and where it will come from in the future. 
 
-<ins>Follow up questions as analysis goes on:<ins>
-
-If coal has been declining has production changed as well?
 
 
 # Key research areas for descriptive analysis:
 
-US power generation:
+US electricity generation:
 
-how much power does the US gnerg generation per year? How has it changes in the past?
+How much power does the US generate per year? How has it changed in the past? Can we predict where power generation will go in the future?
 
 Energy generation by State and Sector:
 
-What does the total energy porduction for the US look like over time. What state produce the most energy?
+What states produce the most electricity?
 
 Energy sources:
 
-What types of energy does the US use to generate power? 
-
-Renewable Energy Growth by State:
-
-At what rate has renewable energy consumption been growing in each state?
-Are there specific policies or initiatives that correlate with higher rates of renewable energy adoption?
+What types of energy does the US use to generate power and how has it changed over the past 20 year?
 
 Seasonal Energy Consumption:
 
 On average, which months have the highest energy consumption in each state?
-How does seasonality affect the demand for energy, and does it coincide with patterns in EV charging?
+How does seasonality affect the demand for electricity?
+
+
 
 
 
